@@ -1,0 +1,7 @@
+node_modules/
+mock/node_modules/
+build/
+.cache/
+.env
+application.properties
+**/application.properties

@@ -3,7 +3,9 @@
 Welcome to the **AI-Powered Mock Test Platform**! This repository contains the complete source code for our innovative EdTech solution designed to help students prepare for their exams efficiently. 
 
 Our platform leverages Generative AI, real-time proctoring, and automated student engagement to create a comprehensive and secure exam preparation environment.
-
+---
+**🎥 Watch the Demo Video:** [https://youtu.be/hE6SrvTJmYw](https://youtu.be/hE6SrvTJmYw)
+*(This is the Demo Video)*
 ---
 
 ## 🌟 Key Features

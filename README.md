@@ -88,5 +88,5 @@ flutter run
 ---
 
 <div align="center">
-  <i>Built with ❤️ for HackNova</i>
+  <i>Built with ❤️ for HACK2SKILLS</i>
 </div>

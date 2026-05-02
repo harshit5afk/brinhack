@@ -79,11 +79,12 @@ public class TwilioNotificationService {
             }
 
             String twiml = "<Response>"
-                    + "<Say language='kn-IN'>Namaskara " + studentName + "! Idu Exam prep ninda ondu nenapu. "
-                    + "Neevu kaleda eradu dinagalinda yavude mock test tegadukondilla. "
-                    + "Nirantara abhyasadinda olleya phalitamsa siguttade. "
-                    + "Dayavittu login madi mattu ivatte ondu test tegedukolli. "
-                    + "Nimma tayarige shubha vagali!</Say>"
+                    + "<Say voice='alice'>Hi " + studentName + "! "
+                    + "This is a friendly reminder from Exam Prep. "
+                    + "You haven't taken a mock test in over 2 days. "
+                    + "Consistent practice leads to better results. "
+                    + "Please login and take a quick test today. "
+                    + "Good luck with your preparation!</Say>"
                     + "</Response>";
 
             Call call = Call.creator(
